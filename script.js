@@ -83,13 +83,3 @@ let str = "salom";
     }
 
     console.log(arrLetters())
-
-
-
-    // ? Vazifa 4
-
-    function sayHello1() {
-        
-    }
-
-    console.log();
